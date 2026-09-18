@@ -1,5 +1,8 @@
 # 🌌 NASA Space Invaders: Nebula Command Deck
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c49b2044-8474-4d5c-a151-cdb6eaea9c09" />
+
+
 A classic 2D retro arcade Space Invaders shooter built entirely with **Vanilla JavaScript** and **HTML5 Canvas**. The game is wrapped in an immersive, sci-fi bento-grid telemetry dashboard that updates dynamically using real cosmic data pulled from the **NASA APOD (Astronomy Picture of the Day) API**.
 
 ---
